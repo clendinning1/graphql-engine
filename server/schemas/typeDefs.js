@@ -33,7 +33,6 @@ const typeDefs = `
         # removeBook
     }
 
-
 `;
 
 
