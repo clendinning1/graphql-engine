@@ -11,6 +11,29 @@ const typeDefs = `
         # bookCount:
         # savedBooks:
     }
+
+    type Book {
+        # bookId
+        # authors
+        # description
+        # title
+        # image
+        # link
+    }
+        
+    type Auth {
+        # token
+        # user
+    }
+
+    type Mutation {
+        # login
+        # addUser
+        # saveBook
+        # removeBook
+    }
+
+
 `;
 
 
